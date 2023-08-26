@@ -1,0 +1,23 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+  
+  h2 {
+    color: blue;
+  }
+  
+  #root1,
+  #root2,
+  #root3,
+  #root4,
+  #root4,
+  #root5,
+  #root6,
+  #root7,
+  #root8,
+  #root9,
+  #root10,
+  #root11 {
+    color: green;
+  }
